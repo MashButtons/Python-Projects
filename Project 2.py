@@ -1,7 +1,3 @@
-# PROJECT 2 FINAL DRAFT
-# DAKOTA SAM
-# TIMOTHY SHACKFORD
-
 import os
 import re
 import stat
